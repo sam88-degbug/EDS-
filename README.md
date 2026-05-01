@@ -1,4 +1,1 @@
--mass = float(input())
-velocity = float(input())
-momentum = mass * velocity
-print(f"{momentum:.2f}kgm/s")
+https://youtube.com/shorts/VgKBo6dhZec?si=TVozO3eq69hsHFuI
